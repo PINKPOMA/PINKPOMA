@@ -5,7 +5,7 @@
 
 🏙I'm live in Daejeon
 
-📚I’m currently learning C
+📚I’m currently learning C, C#, C++, Node.JS
 
 ***My SNS!***
 

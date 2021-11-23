@@ -12,4 +12,4 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/PINKPOMA)](https://www.facebook.com/PINKPOMA)
 
 😎**My first year goal is to develop a game**
-[![https://www.acmicpc.net/user/choi82354](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![choi82354](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})

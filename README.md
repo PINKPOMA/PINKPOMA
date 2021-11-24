@@ -13,4 +13,4 @@
 
 😎**My first year goal is to develop a game**
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{choi82354})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/choi82354)

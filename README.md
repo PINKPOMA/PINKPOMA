@@ -13,5 +13,5 @@
 
 😎**My first year goal is to develop a game**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PINKPOMA&show_icons=true)](https://github.com/PINKPOMA/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PINKPOMA&show_icons=true&icon_color=1D2671)](https://github.com/PINKPOMA)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PINKPOMA&show_icons=true&theme=jolly)](https://github.com/PINKPOMA/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PINKPOMA&show_icons=true&theme=jolly&icon_color=1D2671)](https://github.com/PINKPOMA)

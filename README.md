@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f953c6,100:b91d73&height=300&section=header&text=ChoiYouBin&fontColor=ffffff&fontAlignY=40&fontSize=100&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=300&section=header&text=ChoiYouBin&fontColor=ffffff&fontAlignY=40&fontSize=100&descAlignY=65&descSize=40&animation=scaleIn&rotate=-30)
 # ***helloooooooo!!!***
 
 😃 My Name is Choi You Bin

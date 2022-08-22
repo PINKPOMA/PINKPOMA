@@ -12,3 +12,6 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/PINKPOMA)](https://www.facebook.com/PINKPOMA)
 
 😎**My first year goal is to develop a game**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PINKPOMA&show_icons=true)](https://github.com/PINKPOMA/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PINKPOMA&show_icons=true&icon_color=1D2671)](https://github.com/PINKPOMA)
